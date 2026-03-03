@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+qdrant-client
+pandas
+numpy
+scikit-learn
+matplotlib
+ollama
